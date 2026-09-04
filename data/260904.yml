@@ -7,7 +7,7 @@ about:
   head: 81940d1
   archived: false
   latestVersion: 1.40.11
-  collectedAt: 2026-09-04T19:37:23Z
+  collectedAt: 2026-09-04T20:55:23Z
 timeline:
   created: 2015-09-09
   lastCommit: 2026-08-02
@@ -83,6 +83,109 @@ total:
   openIssue: 188
   commit: 1139
 ---
+path: /home/runner/.x-repo/github.com/docker-slim/docker-slim
+collectedAt: 2026-09-04T20:55:27Z
+loc:
+  Go:
+    code: 1322746
+    comments: 206312
+    blanks: 124189
+    files: 4864
+  Yaml:
+    code: 20312
+    comments: 219
+    blanks: 451
+    files: 23
+  AssemblyGAS:
+    code: 11203
+    comments: 851
+    blanks: 2529
+    files: 56
+  Protobuf:
+    code: 7711
+    comments: 14660
+    blanks: 4093
+    files: 67
+  Json:
+    code: 5184
+    comments: 0
+    blanks: 25
+    files: 7
+  Sh:
+    code: 1913
+    comments: 259
+    blanks: 240
+    files: 42
+  Makefile:
+    code: 600
+    comments: 90
+    blanks: 184
+    files: 18
+  Xml:
+    code: 121
+    comments: 0
+    blanks: 0
+    files: 1
+  Bash:
+    code: 84
+    comments: 19
+    blanks: 22
+    files: 3
+  ReStructuredText:
+    code: 73
+    comments: 0
+    blanks: 42
+    files: 1
+  RPMSpecfile:
+    code: 51
+    comments: 0
+    blanks: 12
+    files: 1
+  Html:
+    code: 46
+    comments: 0
+    blanks: 5
+    files: 1
+  C:
+    code: 28
+    comments: 6
+    blanks: 10
+    files: 1
+  Toml:
+    code: 20
+    comments: 65
+    blanks: 10
+    files: 3
+  Dockerfile:
+    code: 19
+    comments: 20
+    blanks: 14
+    files: 3
+  Svg:
+    code: 2
+    comments: 0
+    blanks: 0
+    files: 2
+  ForgeConfig:
+    code: 1
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 14403
+    blanks: 5673
+    files: 205
+  Text:
+    code: 0
+    comments: 3607
+    blanks: 885
+    files: 18
+total:
+  code: 1372900
+  comments: 240798
+  blanks: 138823
+  files: 5317
 ---
 date: "2026-08-24"
 repo:
