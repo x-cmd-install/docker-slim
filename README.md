@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 23,476 · **Forks**: 851 · **Open issues**: 351 · **Contributors**: 68
+- **Stars**: 23,476 · **Forks**: 852 · **Open issues**: 351 · **Contributors**: 68
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-23 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-24 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-25 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-10-27 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-11-01 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-09-23 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-24 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-25 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-04-26 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-10-28 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-11-02 | 0 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -74,6 +74,14 @@ Lowest-scoring checks:
 | [dist_mac.zip](https://github.com/docker-slim/docker-slim/releases/download/1.40.11/dist_mac.zip) | 70.3 MiB | `other` |
 | [dist_mac_m1.zip](https://github.com/docker-slim/docker-slim/releases/download/1.40.11/dist_mac_m1.zip) | 65.8 MiB | `other` |
 
+## Distribution status
+
+Reported by **23** distros on [repology.org](https://repology.org/project/docker-slim). **1** are ✅ on the latest upstream release, **8** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Nix unstable | `1.40.11` | ⚠️ outdated |
+
 ## Improve this data
 
 Install metadata for docker-slim lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `docker-slim` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -83,4 +91,4 @@ Install metadata for docker-slim lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T05:50:08Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T05:44:56Z._
